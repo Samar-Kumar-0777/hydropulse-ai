@@ -1,16 +1,38 @@
-# React + Vite
+# 🌊 HydroPulse AI
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+An intelligent, AI-driven water management platform designed for real-time analytics, predictive modeling, and efficient ecosystem monitoring.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Features
 
-## React Compiler
+- **📊 Real-time Monitoring:** Dynamic data tracking and sync across modules.
+- **🤖 AI-Powered Analytics:** Predictive insights and smart diagnostic workflows.
+- **🛡️ Audit & Security:** Built-in repository link scanning and security logging.
+- **📑 Multi-Tab Navigation:** Modular dashboard design for seamless user experience.
+- **💡 Quiz & Interactive Modules:** Engagement tools for ecosystem evaluation.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the Oxlint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+- **Frontend:** React, Vite, Tailwind CSS
+- **State & Routing:** Multi-page React architecture
+- **Deployment:** Vercel / GitHub Pages
+
+---
+
+## 🚀 Getting Started Locally
+
+```bash
+# Clone the repository
+git clone [https://github.com/Samar-Kumar-0777/hydropulse-ai.git](https://github.com/Samar-Kumar-0777/hydropulse-ai.git)
+
+# Navigate to project folder
+cd hydropulse-ai
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
