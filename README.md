@@ -1,5 +1,7 @@
 # 🌊 HydroPulse AI
 
+[🚀 Click Here to View Live Demo](https://hydropulse-ai-nu.vercel.app/)
+
 An intelligent, AI-driven water management platform designed for real-time analytics, predictive modeling, and efficient ecosystem monitoring.
 
 ---
